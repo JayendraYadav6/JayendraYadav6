@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayendraYadav6
 - 👀 I’m interested in Java DSA, Web development and Cloud 
-- 🌱 I’m currently learning Java and Web development
+- 🌱 I’m currently learning Java, Python and Web development
 - 💞️ I’m looking to collaborate on Java and Web Development Projects
 - 📫 How to reach me :- mail:-jayendrayadav39@gmail.com
 
